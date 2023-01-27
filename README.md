@@ -1,4 +1,4 @@
 # github-recitation-S23
 recitation demo
 
-In-n-out has the best burger
+five-guys and In-n-out both have the best burger
